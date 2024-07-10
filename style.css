@@ -369,6 +369,7 @@ line-height: 36px;
 letter-spacing: 0%;
 text-align: center;
 opacity: 0.8;
+margin-bottom: 15px;
 }
 .feedback-container p{
     color: rgb(255, 255, 255);
@@ -426,10 +427,7 @@ letter-spacing: 0%;
 text-align: center;
 cursor: pointer;
 }
-.button-s submit:hover{
-    background-color: black;
-    color: white;
-}
+
 
 footer{
     width: 1260px;
