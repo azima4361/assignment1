@@ -29,7 +29,12 @@ border-radius: 8px;
 padding: 10px 10px;
 opacity: 0.8;
 background-color: white;
+cursor: pointer;
 
+}
+.nav-button:hover{
+    background-color: black;
+    color: white;
 }
 
 .hero-section{
@@ -87,6 +92,7 @@ text-align: center;
 cursor: pointer;
 scroll-behavior: smooth;
 }
+
 
 
 .details-container{
@@ -154,7 +160,12 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 background-color: white;
+cursor: pointer;
    
+}
+.details-card-desc button:hover{
+    background-color: black;
+    color: white;
 }
 
 .inspo-container{
@@ -413,6 +424,11 @@ font-weight: 600;
 line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
+cursor: pointer;
+}
+.button-s submit:hover{
+    background-color: black;
+    color: white;
 }
 
 footer{
